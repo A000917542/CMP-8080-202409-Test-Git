@@ -7,4 +7,4 @@ Showing off features of GitHub
 This is a level 2 heading.
 
 - [ ] Item1
-- [ ] Item2
+- [x] Item2
